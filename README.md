@@ -1,7 +1,8 @@
 # Arrow-Compiler
 Compiler for the Arrow programming language into 6502 assembly
 
-This project lasted for a few weeks between April and May of 2024.
+This project lasted for a few weeks between April and May of 2024, but I am planning to port it into
+x86 assembly so I can hopefully run it on willowOS.
 
 Arrow files are stored as .aro
 The python script compiles and outputs the 6502 assembly into 6asm.txt
