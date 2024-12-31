@@ -1,0 +1,14 @@
+dec x = 1+0
+dec z = [10]
+for i, 5
+    z[1] = i+2
+    z[1] = 2+i
+    z[i] = 1+i
+    z[i] = i+1
+    x = z[i]+2
+    x = 2+z[i]
+;
+if x + 0 = x+0
+x = 3+0
+else
+;
